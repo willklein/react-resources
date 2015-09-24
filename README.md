@@ -19,7 +19,8 @@
 ## Code
 [gaearon/react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate)  
 [React Router](https://github.com/rackt/react-router)  
-[Webpack](https://webpack.github.io/)
+[Redux](http://rackt.github.io/redux/)  
+[Webpack](https://webpack.github.io/)  
 
 ### Component Libraries
 [React-Bootstrap](https://react-bootstrap.github.io/)  
@@ -29,4 +30,11 @@
 
 [React Developer Tools](https://github.com/facebook/react-devtools)  
 [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)  
+
+## Community
+[ReactJS Denver](http://www.meetup.com/ReactJS-Denver/)  
+[#topic-react in Denver Devs Slack](https://denver-devs.slack.com/messages/topic-react)  
+[React.js Conf](http://conf.reactjs.com/)  
+[ReactEurope](https://www.react-europe.org/)  
+[React Rally](http://www.reactrally.com/)  
 
