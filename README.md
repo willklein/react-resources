@@ -6,16 +6,16 @@
 [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)  
 [React Blog](https://facebook.github.io/react/blog/all.html)
 
-## Talks
-[Making your app fast with high-performance components by Jason Bonta](http://conf.reactjs.com/schedule.html#making-your-app-fast-with-high-performance-components)  
-[You won't believe these 10 weird tricks... by Dave Thompson](https://github.com/limscoder/react-components-presentation)
-
 ## Examples
 
 [React TodoMVC Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/react)  
 [React-Bootstrap source](https://github.com/react-bootstrap/react-bootstrap)  
 [facebook/fixed-data-table source](https://github.com/facebook/fixed-data-table)  
 [reactjs/react-future](https://github.com/reactjs/react-future)  
+
+## Talks
+[Making your app fast with high-performance components by Jason Bonta](http://conf.reactjs.com/schedule.html#making-your-app-fast-with-high-performance-components)  
+[You won't believe these 10 weird tricks... by Dave Thompson](https://github.com/limscoder/react-components-presentation)
 
 ## Code
 
@@ -28,6 +28,7 @@
 [React-Motion](https://github.com/chenglou/react-motion)  
 ~~[Lodash]()~~ [MDN | Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)  
 ~~[Jest](https://facebook.github.io/jest/)~~ [Mocha](https://mochajs.org/)  
+[Immutable.js](https://facebook.github.io/immutable-js/)  
 
 ### Component Libraries
 
@@ -47,3 +48,6 @@
 [ReactEurope](https://www.react-europe.org/)  
 [React Rally](http://www.reactrally.com/)  
 
+## Everything Else
+
+[React Awesome](https://github.com/enaqx/awesome-react)  
