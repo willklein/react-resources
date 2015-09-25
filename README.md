@@ -47,6 +47,7 @@
 [React.js Conf](http://conf.reactjs.com/)  
 [ReactEurope](https://www.react-europe.org/)  
 [React Rally](http://www.reactrally.com/)  
+[Nodevember](http://nodevember.org/)  
 
 ## Everything Else
 
