@@ -4,6 +4,7 @@
 
 [Thinking in React by Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)  
 [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)  
+[React Blog](https://facebook.github.io/react/blog/all.html)
 
 ## Talks
 [Making your app fast with high-performance components by Jason Bonta](http://conf.reactjs.com/schedule.html#making-your-app-fast-with-high-performance-components)  
@@ -17,12 +18,19 @@
 [reactjs/react-future](https://github.com/reactjs/react-future)  
 
 ## Code
+
 [gaearon/react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate)  
+[Babel](https://babeljs.io/)  
+[Webpack](https://webpack.github.io/)  
 [React Router](https://github.com/rackt/react-router)  
 [Redux](http://rackt.github.io/redux/)  
-[Webpack](https://webpack.github.io/)  
+[React A11y](https://github.com/rackt/react-a11y)  
+[React-Motion](https://github.com/chenglou/react-motion)  
+~~[Lodash]()~~ [MDN | Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)  
+~~[Jest](https://facebook.github.io/jest/)~~ [Mocha](https://mochajs.org/)  
 
 ### Component Libraries
+
 [React-Bootstrap](https://react-bootstrap.github.io/)  
 [Material UI](http://material-ui.com/#/)  
 
@@ -32,6 +40,7 @@
 [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)  
 
 ## Community
+
 [ReactJS Denver](http://www.meetup.com/ReactJS-Denver/)  
 [#topic-react in Denver Devs Slack](https://denver-devs.slack.com/messages/topic-react)  
 [React.js Conf](http://conf.reactjs.com/)  
