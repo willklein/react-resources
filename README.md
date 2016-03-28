@@ -2,7 +2,7 @@
 
 ## Docs
 
-[petehunt/react-howto](https://github.com/petehunt/react-howto)
+[petehunt/react-howto](https://github.com/petehunt/react-howto)  
 [Thinking in React by Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)  
 [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)  
 [React Blog](https://facebook.github.io/react/blog/all.html)
